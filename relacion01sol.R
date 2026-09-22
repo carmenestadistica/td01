@@ -1,3 +1,3 @@
-# Problema 1: 
-
-# Problema 2: 
+media = function(x) {
+  return(sum(x)/length(x))
+  }
